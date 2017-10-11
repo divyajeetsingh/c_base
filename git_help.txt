@@ -10,6 +10,9 @@ next step
 git add filename.c
 next step
 git commit
+
+next step optional 
+git commit -m "added filename.c"
 next step
 git push
 next step 
