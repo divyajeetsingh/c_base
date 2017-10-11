@@ -1,0 +1,16 @@
+How to use git hub to syncing your data onlinefirst you need to install git hub to use this
+
+
+sudo apt install git
+next step
+git clone https://github.com/divyajeetsingh/c_base
+next step
+git status
+next step
+git add filename.c
+next step
+git commit
+next step
+git push
+next step 
+write username and password
